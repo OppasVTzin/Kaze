@@ -1,6 +1,0 @@
-[preload  storage="./data/bgimage/rouka.jpg"  ]
-[preload  storage="./data/fgimage/chara/2/download20240506171131.png"  ]
-[preload  storage="./data/fgimage/chara/2/download20240506171634.png"  ]
-[preload  storage="./data/bgimage/room.jpg"  ]
-[preload  storage="./data/bgimage/Black.png"  ]
-[return]
